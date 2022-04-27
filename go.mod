@@ -1,4 +1,4 @@
-module gozero-errx
+module errx
 
 go 1.18
 
