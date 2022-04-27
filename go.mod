@@ -1,4 +1,4 @@
-module github.com/yanwenchuang/gozero-errx
+module github.com/yanwenchuang/gozero-errorx
 
 go 1.18
 
